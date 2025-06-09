@@ -1,0 +1,426 @@
+---
+10:
+  1:
+    1:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Разговоры о важном"
+        room: 210
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Литература"
+        room: 303
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Литература"
+        room: 303
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "Физкультура"
+        room: 0
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Химия"
+        room: 400
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "История"
+        room: 304
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "ТПП"
+        room: 105
+      - num: 8
+        start_time: "15:45"
+        end_time: "16:30"
+        title: "ТПП"
+        room: 105
+    2:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Англ. язык"
+        room: 406
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Англ. язык"
+        room: 406
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "ОБЗР"
+        room: 404
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "История"
+        room: 304
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "ТОИ"
+        room: 205
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "ТОИ"
+        room: 205
+    3:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Обществознание"
+        room: 412
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Обществознание"
+        room: 412
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Русский язык"
+        room: 303
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "Русский язык"
+        room: 303
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Алгебра"
+        room: 413
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "РТ"
+        room: 205
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "РТ"
+        room: 205
+    4:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Литература"
+        room: 304
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Физика"
+        room: 206
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Физика"
+        room: 206
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "ТУР"
+        room: 105
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "ТУР"
+        room: 105
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "Физкультура"
+        room: 0
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "Англ. язык"
+        room: 406
+    5:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "ТОИ"
+        room: 207
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "ТОИ"
+        room: 207
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Биология"
+        room: 210
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "Алгебра"
+        room: 413
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Алгебра"
+        room: 413
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "Геометрия"
+        room: 302
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "Геометрия"
+        room: 302
+    6:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Физкультура"
+        room: 0
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Геометрия"
+        room: 302
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Литература"
+        room: 303
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: 303
+        room: "Литература"
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Химия"
+        room: 400
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "География"
+        room: 312
+  5:
+    1:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Разговоры о важном"
+        room: 210
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Алгебра"
+        room: 413
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Алгебра"
+        room: 413
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "Физика"
+        room: 206
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Физика"
+        room: 206
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "История"
+        room: 304
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "ТПП"
+        room: 105
+      - num: 8
+        start_time: "15:45"
+        end_time: "16:30"
+        title: "ТПП"
+        room: 105
+    2:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Англ. язык"
+        room: 406
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Англ. язык"
+        room: 406
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "ОБЗР"
+        room: 404
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "История"
+        room: 304
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "ТОИ"
+        room: 205
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "ТОИ"
+        room: 205
+    3:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Обществознание"
+        room: 412
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Обществознание"
+        room: 412
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Русский язык"
+        room: 303
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "Русский язык"
+        room: 303
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Алгебра"
+        room: 413
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "РТ"
+        room: 205
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "РТ"
+        room: 205
+    4:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Литература"
+        room: 304
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Физика"
+        room: 206
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Физика"
+        room: 206
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "ТУР"
+        room: 105
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "ТУР"
+        room: 105
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "Физкультура"
+        room: 0
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "Англ. язык"
+        room: 406
+    5:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "ТОИ"
+        room: 207
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "ТОИ"
+        room: 207
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Биология"
+        room: 210
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: "Алгебра"
+        room: 413
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Алгебра"
+        room: 413
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "Геометрия"
+        room: 302
+      - num: 7
+        start_time: "14:50"
+        end_time: "15:35"
+        title: "Геометрия"
+        room: 302
+    6:
+      - num: 1
+        start_time: "09:00"
+        end_time: "09:45"
+        title: "Физкультура"
+        room: 0
+      - num: 2
+        start_time: "10:00"
+        end_time: "10:45"
+        title: "Геометрия"
+        room: 302
+      - num: 3
+        start_time: "10:50"
+        end_time: "11:35"
+        title: "Литература"
+        room: 303
+      - num: 4
+        start_time: "11:45"
+        end_time: "12:30"
+        title: 303
+        room: "Литература"
+      - num: 5
+        start_time: "12:50"
+        end_time: "13:35"
+        title: "Химия"
+        room: 400
+      - num: 6
+        start_time: "13:55"
+        end_time: "14:40"
+        title: "География"
+        room: 312
